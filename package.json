@@ -1,9 +1,11 @@
 {
-  "name": "react-ionicons",
-  "version": "3.0.1",
+  "name": "react-ionicons-updated",
+  "version": "3.0.2",
   "description": "A React SVG ionicon component",
-  "author": "zamarrowski",
   "license": "ISC",
+  "publishConfig": {
+    "registry": "https://nexus.studiosus.com/nexus/repository/npm-private/"
+  },
   "dependencies": {
     "prop-types": ">= 15.5",
     "react": ">= 15.4",
